@@ -5,7 +5,7 @@ In this project you can save a secret and send it to someone else using the link
 This project uses an API that was deployed in Heroku.
 
 # Project deployed in Netlify
-### https://jumpstonik-json-to-csv.netlify.app/
+### https://jumpstonik-one-time-secret.netlify.app/
 
 ## Available Scripts
 
