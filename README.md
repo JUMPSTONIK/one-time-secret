@@ -2,7 +2,7 @@
 
 ## Description
 In this project you can save a secret and send it to someone else using the link this application generates. The secret will be show to the person who uses this link, but only works once, so use it wisely.
-This project use a API that was deployed in Heroku.
+This project uses an API that was deployed in Heroku.
 
 # Project deployed in Netlify
 ### https://jumpstonik-json-to-csv.netlify.app/
